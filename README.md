@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Md Shahin Shanaous
 #### SQA Enginner
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/shahin-999)  
+
+
 
 ![SQA Enginner](https://codelabs.inc/wp-content/uploads/2021/07/SQA-Engineer@2x.png)
 
