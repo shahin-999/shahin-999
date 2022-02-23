@@ -8,11 +8,11 @@
 
 
 ## Skils
-####Software Testing
+#### Software Testing
 Manual Testing | API Testing | Agile | JIRA | jMeter
-####Programming language:
+#### Programming language:
 C | C++ | JAVA
-####Database
+#### Database
 MySQL
 
 
