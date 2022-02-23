@@ -8,7 +8,13 @@
 
 
 ## Skils
+####Software Testing
 Manual Testing | API Testing | Agile | JIRA | jMeter
+####Programming language:
+C | C++ | JAVA
+####Database
+MySQL
+
 
 ## About me
 
