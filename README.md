@@ -3,10 +3,6 @@
 
 
 
-
-![SQA Enginner](https://codelabs.inc/wp-content/uploads/2021/07/SQA-Engineer@2x.png)
-
-
 ## Skils
 ### Software Testing
 Manual Testing | API Testing | Agile | JIRA | jMeter
