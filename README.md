@@ -32,4 +32,5 @@ Looking for a challenging role in a reputable organization to utilize my technic
 ![Shahin's github stats](https://github-readme-stats.vercel.app/api?username=shahin-999&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahin-999&langs_count=3&theme=dark)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahin-999&langs_count=3&theme=dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahin-999&show_icons=true&locale=en&layout=compact" alt="shahin-999" /></p>
 
