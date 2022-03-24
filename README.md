@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Md Shahin Shanaous
 ### SQA Enginner 
-![Profile view](https://visitor-badge.laobi.icu/badge?page_id=shahin-999.repoName)
+![Profile view](https://visitor-badge.laobi.icu/badge?page_id=shahin-999.repoName) <br>
 [Profile Summary](https://profile-summary-for-github.com/user/shahin-999)
 
 
