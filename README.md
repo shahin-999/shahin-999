@@ -34,5 +34,3 @@ Looking for a challenging role in a reputable organization to utilize my technic
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shahin-999&langs_count=3&theme=dark)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahin-999&show_icons=true&locale=en&layout=compact&theme=dark" alt="shahin-999" />
-
-
