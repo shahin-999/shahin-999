@@ -8,9 +8,9 @@
 
 ## Skils
 ### Software Testing
-Manual Testing | API Testing | Agile | JIRA | jMeter
+Web Automation | Selenium | Playwright | Cucumber | SpecFlow | Manual Testing | API Testing | Agile | JIRA | jMeter | K6
 ### Programming language:
-C | C++ | JAVA
+C | C++ | C# | JAVA | JavaScript
 ### Database
 MySQL
 
